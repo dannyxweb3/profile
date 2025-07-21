@@ -2,7 +2,7 @@
 layout: default
 title: Danny Xu | Golang后端/云架构工程师
 ---
-
+[English](index.md)
 # 👋 Hi, I'm Danny Xu
 
 Golang 后端工程师 / 云架构师，9年经验，热衷于高并发、微服务与云原生架构。
@@ -10,7 +10,7 @@ Golang 后端工程师 / 云架构师，9年经验，热衷于高并发、微服
 📍 Perth / Remote | ✉️ [Email Me](mailto:Dannyxuweb3@gmail.com) | 🌐 [GitHub](https://github.com/dannyxweb3)
 
 ## 🧾 我的简历
-👉 [点击查看 Markdown 简历](./CV.zh.md)
+👉 [点击查看 Markdown 简历](./CV.zh.md) [English Resume](./CV.md)
 
 ## 🔧 项目展示
 
