@@ -2,7 +2,6 @@
 
 - 📍 澳大利亚 · 珀斯（可远程）  
 - 📧 Dannyxuweb3@gmail.com   
-- 🎂 出生：1988年10月  
 - 🎓 教育背景：北京理工大学（计算机本科），科廷大学（计算机硕士在读）  
 - 🌐 GitHub: [github.com/dannyxweb3](https://github.com/dannyxweb3)  
 - 🧑‍💻 工作经验：9年+ 后端 / 架构 / DevOps / 高并发服务开发
